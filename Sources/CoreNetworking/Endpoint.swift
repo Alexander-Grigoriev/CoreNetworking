@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Alexandr Grigoriev on 16.01.2026.
-//
-
 import Foundation
 
 public enum HTTPMethod: String, Sendable {
